@@ -11,3 +11,12 @@ dist/
 build/
 trial.ipynb
 roadmap.md
+venv/
+venv-py311-backup/
+.venv/
+node_modules/
+**/node_modules/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
